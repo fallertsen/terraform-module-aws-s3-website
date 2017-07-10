@@ -38,6 +38,6 @@ website.
 Output variables
 ----------------
 
-- `website\_endpoint` - The full hostname where the website can be accessed
-- `website\_domain` - The domain of the endpoint, this is used for Route53 alias records
-- `hosted\_zone\_id` - The Route53 hosted zone id of the bucket region
+- `website_endpoint` - The full hostname where the website can be accessed
+- `website_domain` - The domain of the endpoint, this is used for Route53 alias records
+- `hosted_zone_id` - The Route53 hosted zone id of the bucket region
